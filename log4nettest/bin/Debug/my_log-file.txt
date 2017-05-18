@@ -1,0 +1,2 @@
+2017-05-18 14:36:26,032 [10] DEBUG MyLogger [(null)] <(null)>
+ - hello
